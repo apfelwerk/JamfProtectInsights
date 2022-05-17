@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2022 Apfelwerk GmbH & Co. KG
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
-# Title: Ability To Login To Another User's Active And Locked Session Disable
+# Title: Account Lockout Threshold Enabled
 # CIS Nr.: 5.2.1
 # Level:1
 # Type:Authorization

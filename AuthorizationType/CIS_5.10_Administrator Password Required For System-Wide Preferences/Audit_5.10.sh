@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2022 Apfelwerk GmbH & Co. KG
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
-# Title: Ability To Login To Another User's Active And Locked Session Disable
+# Title: Administrator Password Required For System-Wide Preferences
 # CIS Nr.: 5.10
 # Level:1
 # Type:Authorization
