@@ -13,5 +13,5 @@
 # Audit: Run the following command to verify that a user cannot log into another user's active and/or locked session
 sudo security authorizationdb read system.login.screensaver 2>&1 | /usr/bin/grep -c 'use-login-window-ui'
 
-# Outcome if user cannot: 1
+# Outpur if user cannot: 1
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

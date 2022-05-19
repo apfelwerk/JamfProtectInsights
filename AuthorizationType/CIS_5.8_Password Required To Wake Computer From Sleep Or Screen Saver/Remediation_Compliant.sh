@@ -19,6 +19,5 @@
 # 5. Set the key to <integer><0,5></integer>
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Configuration Profile: Set: Require a password to wake the computer from sleep or screen saver - 5.9 (Security & PRivacy Payload)
-#Additional Information: This only protects the system when the screen saver is running.
-
+# Additional Information: This only protects the system when the screen saver is running.
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

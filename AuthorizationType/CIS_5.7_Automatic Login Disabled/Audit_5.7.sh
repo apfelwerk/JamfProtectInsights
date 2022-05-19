@@ -14,5 +14,5 @@
 sudo /usr/bin/defaults read /Library/Preferences/com.apple.loginwindow autoLoginUser 
 # oder 
 # sudo /usr/bin/profiles -P -o stdout | /usr/bin/grep "com.apple.login.mcx.DisableAutoLoginClient"
-# Kein output oder 1
+# Output: com.apple.login.mcx.DisableAutoLoginClient = 1;
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

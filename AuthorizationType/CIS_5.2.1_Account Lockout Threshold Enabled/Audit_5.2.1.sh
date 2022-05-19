@@ -14,7 +14,7 @@
 # Audit: Run the following command to verify that the number of failed attempts is less than or equal to 5:
 sudo /usr/bin/pwpolicy -getaccountpolicies | /usr/bin/grep -A 1 'policyAttributeMaximumFailedAuthentications' | /usr/bin/tail -1 | /usr/bin/cut -d'>' -f2 | /usr/bin/cut -d '<' -f1 
 # The output should be ≤ 5
-# oder run
+# or run
 # sudo /usr/bin/profiles -P -o stdout | /usr/bin/grep ""maxFailedAttempts"""
 # Outcome should include maxFailedAttempts ≤ 5;
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

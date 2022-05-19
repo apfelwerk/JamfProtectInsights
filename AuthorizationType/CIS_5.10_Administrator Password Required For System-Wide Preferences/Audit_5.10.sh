@@ -14,6 +14,4 @@
 sudo security authorizationdb read system.preferences > /tmp/system.preferences.plist
 result=$(sudo defaults read /tmp/system.preferences.plist shared)
 echo "<result>$result</result>"
-
-# 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
