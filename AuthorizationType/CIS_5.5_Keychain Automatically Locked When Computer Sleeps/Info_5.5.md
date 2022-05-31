@@ -13,9 +13,8 @@
 ## Content
 ***
 A list of technologies used within the project:
-* [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): You will find here 
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): Version 2.34
-
+* [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/30ee40a2af131ed5ed737b7860674667eeced5fa/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): Run the following commands to verify that the default sudoers controls are in place with explicit tickets per tty
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/30ee40a2af131ed5ed737b7860674667eeced5fa/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): For each user, run the following command to set the login keychain to sleep on lock
 ------------------------
 ## Information 
 
