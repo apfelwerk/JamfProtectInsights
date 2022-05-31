@@ -13,5 +13,4 @@
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-17
 # Remediation: Run the following command to set the maximum number of failed login attempts to less than or equal to 5:
 sudo /usr/bin/pwpolicy -n /Local/Default -setglobalpolicy "maxFailedLoginAttempts=<value≤5>"
-#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
