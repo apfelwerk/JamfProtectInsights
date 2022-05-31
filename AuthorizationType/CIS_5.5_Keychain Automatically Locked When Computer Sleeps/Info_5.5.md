@@ -18,7 +18,7 @@ The user may experience multiple prompts to unlock the keychain when waking from
 
 ---
 ## Content
-A list of Files used within the project:
+This are the files you can find about the Insight. Every of them has an use 
 * [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/8713820ad52c248d8fa4127ee17f6e48f38257ad/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): For each user, run the following command to unlock the keychain and verify it locks on sleep
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/8713820ad52c248d8fa4127ee17f6e48f38257ad/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): For each user, run the following command to set the login keychain to sleep on lock
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
