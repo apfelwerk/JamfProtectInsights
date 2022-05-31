@@ -10,12 +10,11 @@
 ##### Headline H5
 ###### Headline H6
 
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
-4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+## Content
+***
+A list of technologies used within the project:
+* [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): Version 12.3  
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): Version 2.34
 
 ------------------------
 ## Information 
