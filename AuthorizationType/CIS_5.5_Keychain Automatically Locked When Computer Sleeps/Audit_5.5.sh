@@ -6,8 +6,7 @@
 # CIS Nr.: 5.5
 # Level: 2
 # Type:Authorization
-# Info: Please write something here. Way too long for me :)
-
+# Info:  The login keychain is a secure database store for passwords and certificates and is created for each user account on macOS. T
 # Rationale: also here
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-18

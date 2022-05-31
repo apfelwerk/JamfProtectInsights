@@ -20,3 +20,4 @@ sudo grep -i ttl /etc/asl/com.apple.install
 sudo grep -i all_max= /etc/asl/com.apple.install
 # No results should be returned
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Standard: * file /var/log/install.log format='$((Time)(JZ)) $Host $(Sender)[$(PID)]: $Message' rotate=seq compress file_max=50M all_max=150M size_onl
