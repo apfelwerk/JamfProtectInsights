@@ -13,7 +13,7 @@
 ## Content
 ***
 A list of technologies used within the project:
-* [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): Version 12.3  
+* [Audit_5.5](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): You will find here 
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/2ad28df37484571516e7696a8c846160507132f7/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): Version 2.34
 
 ------------------------
