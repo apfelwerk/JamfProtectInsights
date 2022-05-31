@@ -1,8 +1,6 @@
-# Info_5.5
+# Keychain Automatically Locked When Computer Sleeps
 
-## Keychain Automatically Locked When Computer Sleeps
-
-CIS Nr.: 5.5
+** CIS Nr.: 5.5 **
 Level: 2 
 Type:Authorization
 ------------------------
