@@ -4,7 +4,6 @@
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
 # Title: Keychain Automatically Locked When Computer Sleeps
 # CIS Nr.: 5.5
-
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-18
 # Remediation: For each user, run the following command to set the login keychain to sleep on lock
