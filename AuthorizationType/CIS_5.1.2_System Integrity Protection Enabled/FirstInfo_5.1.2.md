@@ -19,7 +19,7 @@ System binaries and processes could become compromised.
 ---
 ## Content
 This are the files you can find about the Insight. Every of them has an use 
-* [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/8713820ad52c248d8fa4127ee17f6e48f38257ad/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Audit_5.5.sh): Run the following command to verify that System Integrity Protection is enabled
+* [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/609a488bf122ef29745c2db1ff05518adc9892b4/AuthorizationType/CIS_5.1.2_System%20Integrity%20Protection%20(SIP)%20Enabled/Audit_5.1.2.sh): Run the following command to verify that System Integrity Protection is enabled   
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/8713820ad52c248d8fa4127ee17f6e48f38257ad/AuthorizationType/CIS_5.5_Keychain%20Automatically%20Locked%20When%20Computer%20Sleeps/Remediation_Compliant.sh): Perform the following to enable System Integrity Protection
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
