@@ -20,10 +20,10 @@ The number of incorrect log on attempts should be reasonably small to minimize t
 ---
 ## Content
 This are the files you can find about the Insight. Every of them has an use 
-* [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/9732d84e191de84894b37ecf1b78ebdb04363b9d/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Audit_5.2.1.sh): Run the following command to verify that the number of failed attempts is less than or equal to 5  
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/9732d84e191de84894b37ecf1b78ebdb04363b9d/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Profile_Verification.sh): or Run the following command to verify that a profile is installed
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/9732d84e191de84894b37ecf1b78ebdb04363b9d/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Remediation_Compliant.sh): Perform the following to enable System Integrity Protection
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/9732d84e191de84894b37ecf1b78ebdb04363b9d/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Audit_5.2.1.sh): Run the following command to verify that the number of failed attempts is less than or equal to 5  
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Profile_Verification.sh): or Run the following command to verify that a profile is installed
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Remediation_Compliant.sh): Perform the following to enable System Integrity Protection
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
