@@ -21,7 +21,7 @@ Short passwords can be easily attacked.
 
 ---
 ## Content
-This are the files you can find about the Insight. Every of them has an use 
+This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.2.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Audit_5.2.2.sh): Run Run the following command to verify that the password length is greater than or equal to 15 
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Profile_Verification.sh): or Run the following command to verify that a profile is installed
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_Compliant.sh): Run the following command to set the password length to greater than or equal to 15

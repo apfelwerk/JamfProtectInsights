@@ -19,7 +19,7 @@ The number of incorrect log on attempts should be reasonably small to minimize t
 
 ---
 ## Content
-This are the files you can find about the Insight. Every of them has an use 
+This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Audit_5.2.1.sh): Run the following command to verify that the number of failed attempts is less than or equal to 5  
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Profile_Verification.sh): or Run the following command to verify that a profile is installed
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.1_Account%20Lockout%20Threshold%20Enabled/Remediation_Compliant.sh): Perform the following to enable System Integrity Protection
