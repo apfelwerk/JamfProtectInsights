@@ -22,9 +22,9 @@ Required password changes will lead to some locked computers requiring admin ass
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.2.7](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.7_Password%20Age%20Limits%20Set/Audit_5.2.7.sh): Run the following command to verify that the password expires after at most 365 days
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Profile_Verification.sh): or Run the following command to verify that a profile is installed that requires passwords to expire less than or equal to 365 days. change link
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.7_Password%20Age%20Limits%20Set/Profile_Verification.sh): or Run the following command to verify that a profile is installed that requires passwords to expire less than or equal to 365 days. change link
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.7_Password%20Age%20Limits%20Set/Remediation_Compliant.sh): Run the following command to require that passwords expire after at most 365 days
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile! change link
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.7_Password%20Age%20Limits%20Set/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
