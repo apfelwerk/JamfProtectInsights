@@ -19,7 +19,7 @@ Required password changes will lead to some locked computers requiring admin ass
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.2.7](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Audit_5.2.8.sh): Run the following command to verify that the password is required to be different from at least the last 15 passwords
+* [Audit_5.2.8](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Audit_5.2.8.sh): Run the following command to verify that the password is required to be different from at least the last 15 passwords
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Profile_Verification.sh): or Run the following command to verify that a profile is installed that requires passwords history of at least the previous 15 passwords
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Remediation_Compliant.sh): Run the following command to require that the password must to be different from at least the last 15 passwords
 * [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
