@@ -1,4 +1,4 @@
-# Password History
+# Seperate Timestamps For Each User/TTY Combo Used
 ------------------------------------
 ## Remediation_Compliant
 
