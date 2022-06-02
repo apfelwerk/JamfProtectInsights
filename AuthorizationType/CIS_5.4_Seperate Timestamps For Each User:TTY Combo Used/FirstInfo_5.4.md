@@ -22,7 +22,7 @@ This control should have no user impact. Developers or installers may have issue
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.4](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.4_Seperate%20Timestamps%20For%20Each%20User:TTY%20Combo%20Used/Audit_5.4.sh): Run the following commands to verify that the default sudoers controls are in place with explicit tickets per tty
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.8_Password%20History/Remediation_Compliant.sh): Run the following command to require that the password must to be different from at least the last 15 passwords
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.4_Seperate%20Timestamps%20For%20Each%20User:TTY%20Combo%20Used/Remediation_Compliant.md): Run the following command to require that the password must to be different from at least the last 15 passwords
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
