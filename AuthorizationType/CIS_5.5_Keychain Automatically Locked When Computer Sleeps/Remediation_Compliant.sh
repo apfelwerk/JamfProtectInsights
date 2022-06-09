@@ -9,4 +9,5 @@
 # Remediation: For each user, run the following command to set the login keychain to sleep on lock
 # Change Variable 'username' and the Run command to unlock 
 sudo -u <username> security set-keychain-settings -l /Users/<username>/Library/Keychains/login.keychain
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

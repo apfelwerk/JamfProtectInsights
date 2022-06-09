@@ -8,4 +8,5 @@
 # Remediation: Run the following command to disable the root user 
 sudo /usr/sbin/dsenableroot -d
 # username = root , user password:
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

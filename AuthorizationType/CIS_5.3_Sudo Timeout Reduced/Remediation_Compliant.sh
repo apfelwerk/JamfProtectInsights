@@ -8,4 +8,5 @@
 # Remediation: Run the following command to edit the sudo settings
 sudo /usr/sbin/visudo
 # Add the line Defaults timestamp_timeout=0 in the Override built-in defaults section.
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

@@ -8,4 +8,5 @@
 # Remediation: Run the following command to require that passwords expire after at most 365 days
 # Please change Variable 'value'
 sudo /usr/bin/pwpolicy -n /Local/Default -setglobalpolicy "maxMinutesUntilChangePassword=<value≤525600>"
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

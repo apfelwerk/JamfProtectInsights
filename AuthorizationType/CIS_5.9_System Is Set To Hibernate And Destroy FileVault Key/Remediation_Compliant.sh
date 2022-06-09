@@ -8,7 +8,8 @@
 # Remediation: Run the following command to set the hibernate delays and to ensure the FileVault keys are set to be destroyed on standby 
 # Please change your value with the specifications
 sudo pmset -a standbydelaylow <value≤600>
-$ sudo pmset -a standbydelayhigh <value≤600>
-$ sudo pmset -a highstandbythreshold <value≥90> $ sudo pmset -a destroyfvkeyonstandby 1
-$ sudo pmset -a hibernatemode 25
+sudo pmset -a standbydelayhigh <value≤600>
+sudo pmset -a highstandbythreshold <value≥90> $ sudo pmset -a destroyfvkeyonstandby 1
+sudo pmset -a hibernatemode 25
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
