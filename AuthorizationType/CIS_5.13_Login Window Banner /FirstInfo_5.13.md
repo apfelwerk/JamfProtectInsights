@@ -20,7 +20,7 @@ Users will have to click on the window with the Login text before logging into t
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.13](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.13_Login%20Window%20Banner%20/Audit_5.13.sh): Run the following command to verify the login window text
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.12_Custom%20Message%20for%20Login%20Screen/Remediation_Compliant.sh): Follow instructions to make your Computer compliant.
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.13_Login%20Window%20Banner%20/Remediation_Compliant.md): Follow instructions to make your Computer compliant.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
