@@ -20,9 +20,9 @@ If users are not informed of their responsibilities, unapproved activities may o
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_5.12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.12_Custom%20Message%20for%20Login%20Screen/Audit_5.12.sh): Run the following command to verify that a custom message on the login screen is configured
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.7_Automatic%20Login%20Disabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that disables automatic login
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.12_Custom%20Message%20for%20Login%20Screen/Profile_Verification.sh): or run the following command to verify that a profile is installed that configures a login banner
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.12_Custom%20Message%20for%20Login%20Screen/Remediation_Compliant.sh): Run the following command to enable a custom login screen message
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.7_Automatic%20Login%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.12_Custom%20Message%20for%20Login%20Screen/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
