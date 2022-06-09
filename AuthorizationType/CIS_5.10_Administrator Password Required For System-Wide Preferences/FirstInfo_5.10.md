@@ -19,8 +19,8 @@ If Automatic login is not disabled an unauthorized user could login without supp
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.10](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.7_Automatic%20Login%20Disabled/Audit_5.7.sh): Run the following command to verify that accessing system-wide preferences requires an administrator password
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.7_Automatic%20Login%20Disabled/Remediation_Compliant.sh): Run the following commands to enable that an administrator password is required to access system-wide preferences
+* [Audit_5.10](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.10_Administrator%20Password%20Required%20For%20System-Wide%20Preferences/Audit_5.10.sh): Run the following command to verify that accessing system-wide preferences requires an administrator password
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.10_Administrator%20Password%20Required%20For%20System-Wide%20Preferences/Remediation_Compliant.sh): Run the following commands to enable that an administrator password is required to access system-wide preferences
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
