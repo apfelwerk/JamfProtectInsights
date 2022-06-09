@@ -13,5 +13,5 @@
 # Remediation: Perform the following to enable a login banner set to your organization's required text. Run the following command to enable a custom login screen message
 # Please change "<custom.message>" and write something for your Organization
 sudo /usr/bin/defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "<custom.message>"
-
+sudo protectctl checkin --insights
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
