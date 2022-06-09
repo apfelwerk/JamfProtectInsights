@@ -11,7 +11,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-16
 # Remediation: Perform the following to enable a login banner set to your organization's required text. Run the following command to enable a custom login screen message
-# Please change "<custom.message>" and write somethinf for your Organization
+# Please change "<custom.message>" and write something for your Organization
 sudo /usr/bin/defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "<custom.message>"
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
