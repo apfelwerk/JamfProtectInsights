@@ -3,12 +3,6 @@
 # Copyright (c) 2022 Apfelwerk GmbH & Co. KG
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
 # Title: Administrator Password Required For System-Wide Preferences
-# CIS Nr.: 5.10
-# Level:1
-# Type:Authorization
-# Info: The account lockout threshold specifies the amount of times a user can enter an incorrect password before a lockout will occur.
-#   Ensure that a lockout threshold is part of the password policy on the computer.
-# Rationale: The account lockout feature mitigates brute-force password attacks on the system.
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-17
 # Remediation: The authorizationdb settings cannot be written to directly, so the plist must be exported out to temporary file. Changes can be made to the temporary plist, then imported back into the authorizationdb settings.
