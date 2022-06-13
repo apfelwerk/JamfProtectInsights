@@ -1,4 +1,4 @@
-# Bonjour Advertising Service Disabled
+# Wi-Fi Status In Menu Bar
 ------------------------------------
 ## Profile Method
 ### Steps:
