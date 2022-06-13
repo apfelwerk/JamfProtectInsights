@@ -21,9 +21,9 @@ Some applications, like Final Cut Studio and AirPort Base Station management, ma
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_4.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.1_Bonjour%20Advertising%20Service%20Disabled/Audit_4.1.sh): Run the following command to verify that Bonjour Advertising is not enabled
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Profile_Verification.sh): or run the following command to verify that a profile is installed that disables Bonjour Advertising
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.1_Bonjour%20Advertising%20Service%20Disabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that disables Bonjour Advertising
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.1_Bonjour%20Advertising%20Service%20Disabled/Remediation_Compliant.sh): Run the following command to disable Bonjour Advertising services
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.1_Bonjour%20Advertising%20Service%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

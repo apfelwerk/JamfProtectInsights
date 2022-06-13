@@ -1,4 +1,4 @@
-# Account Lockout Threshold Enabled
+# Bonjour Advertising Service Disabled
 ------------------------------------
 ## Profile Method
 ### Steps:
