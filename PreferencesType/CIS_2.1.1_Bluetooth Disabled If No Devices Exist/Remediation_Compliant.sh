@@ -4,11 +4,6 @@
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
 # Title: Bluetooth Disabled If No Devices Exist
 # CIS Nr.: 2.1.1
-# Level: 1
-# Type: Preferences
-# Info: Bluetooth devices use a wireless communications system that replaces the cables used by other peripherals to connect to a system. It is by design a peer-to-peer network technology and typically lacks centralized administration and security enforcement infrastructure.
-# Rationale: Bluetooth is particularly susceptible to a diverse set of security vulnerabilities involving identity detection, location tracking, denial of service, unintended control and access of data and voice channels, and unauthorized device control and data access.
-# Impact: System binaries and processes could become compromised.
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
 # Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-19
 # Remediation: Run the following command to disable Bluetooth
