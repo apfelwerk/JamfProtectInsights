@@ -24,9 +24,9 @@ Current testing shows scanners can easily determine the MAC address and the OS v
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.2.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Audit_2.2.1.sh): Run the following command to ensure that date and time are automatically set
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.1.2_Bluetooth%20Status%20In%20Menu%20Bar/Profile_Verification.sh):Or run the following command to verify that a profile is installed that enables date and time to be set automatically
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Profile_Verification.sh):Or run the following command to verify that a profile is installed that enables date and time to be set automatically
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Remediation_Compliant.sh): Run the following commands to enable the date and time setting automatically
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.1.2_Bluetooth%20Status%20In%20Menu%20Bar/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
