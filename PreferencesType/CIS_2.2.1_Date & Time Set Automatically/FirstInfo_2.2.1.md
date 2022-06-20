@@ -14,12 +14,14 @@ Kerberos may not operate correctly if the time on the Mac is off by more than 5 
 
 ## Impact
 
+
 Apple's automatic time update solution will enable an NTP server that is not controlled by the Application Firewall. Turning on "Set time and date automatically" allows other computers to connect to set their time and allows for exploit attempts against ntpd. It also allows for more accurate network detection and OS fingerprinting
 Current testing shows scanners can easily determine the MAC address and the OS vendor. More extensive OS fingerprinting may be possible.
 
 ### Note: 
-
+----------
 If your organization has internal time servers, enter them here. Enterprise mobile devices may need to use a mix of internal and external time servers. If multiple servers are required use the Date & Time System Preference with each server separated by a space.
+
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
