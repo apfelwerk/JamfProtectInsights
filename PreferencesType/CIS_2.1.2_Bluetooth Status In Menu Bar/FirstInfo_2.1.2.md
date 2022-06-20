@@ -21,8 +21,8 @@ Bluetooth is a useful wireless tool that has been widely exploited when configur
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_4.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.1.2_Bluetooth%20Status%20In%20Menu%20Bar/Audit_2.1.2.sh): For each user, run the following command to verify that the Bluetooth status is enabled to show in the menu bar
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.2_Wi-Fi%20Status%20In%20Menu%20Bar/Profile_Verification.sh):Or run the following command to verify that a profile is installed that enables Bluetooth to be shown in the menu bar
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.2_Wi-Fi%20Status%20In%20Menu%20Bar/Remediation_Compliant.sh): For each user, run the following command to enable Bluetooth status in the menu bar
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.1.2_Bluetooth%20Status%20In%20Menu%20Bar/Profile_Verification.sh):Or run the following command to verify that a profile is installed that enables Bluetooth to be shown in the menu bar
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.1.2_Bluetooth%20Status%20In%20Menu%20Bar/Remediation_Compliant.sh): For each user, run the following command to enable Bluetooth status in the menu bar
 * [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.2_Wi-Fi%20Status%20In%20Menu%20Bar/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
