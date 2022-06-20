@@ -1,4 +1,4 @@
-# Wi-Fi Status In Menu Bar
+# Bluetooth Status In Menu Bar
 ------------------------------------
 ## Profile Method
 ### Steps:
