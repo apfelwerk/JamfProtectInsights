@@ -1,4 +1,4 @@
-# Bluetooth Status In Menu Bar
+# Inactivity Interval Is Set To 20 Minutes Or Less For The Screen Saver
 ------------------------------------
 ## Profile Method
 ### Steps:
