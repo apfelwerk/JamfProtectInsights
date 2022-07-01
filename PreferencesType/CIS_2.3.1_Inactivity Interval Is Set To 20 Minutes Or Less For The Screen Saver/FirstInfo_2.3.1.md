@@ -1,33 +1,27 @@
-# Date & Time Set Automatically
+# Inactivity Interval Is Set To 20 Minutes Or Less For The Screen Saver
 #### Benchmark Information
-- CIS Nr.: 2.2.1
+- CIS Nr.: 2.3.1
 - Level: 1
 - Type: Preferences
 ------------------------
 ## Description
 
-Correct date and time settings are required for authentication protocols, file creation, modification dates and log entries.
+A locking screensaver is one of the standard security controls to limit access to a computer and the current user's session when the computer is temporarily unused or unattended. In macOS, the screensaver starts after a value is selected in the drop down menu. 20 minutes or less is an acceptable value. Any value can be selected through the command line or script but a number that is not reflected in the GUI can be problematic. 20 minutes is the default for new accounts.
 
 ## Rationale
 
-Kerberos may not operate correctly if the time on the Mac is off by more than 5 minutes. This in turn can affect Apple's single sign-on feature, Active Directory logons, and other features.
+Setting an inactivity interval for the screensaver prevents unauthorized persons from viewing a system left unattended for an extensive period of time.
 
 ## Impact
 
-
-Apple's automatic time update solution will enable an NTP server that is not controlled by the Application Firewall. Turning on "Set time and date automatically" allows other computers to connect to set their time and allows for exploit attempts against ntpd. It also allows for more accurate network detection and OS fingerprinting
-Current testing shows scanners can easily determine the MAC address and the OS vendor. More extensive OS fingerprinting may be possible.
-
-### Note: 
-----------
-If your organization has internal time servers, enter them here. Enterprise mobile devices may need to use a mix of internal and external time servers. If multiple servers are required use the Date & Time System Preference with each server separated by a space.
+If the screensaver is not set users may leave the computer available for an unauthorized person to access information.
 
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_2.2.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Audit_2.2.1.sh): Run the following command to ensure that date and time are automatically set
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Profile_Verification.sh):Or run the following command to verify that a profile is installed that enables date and time to be set automatically
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Remediation_Compliant.sh): Run the following commands to enable the date and time setting automatically
+* [Audit_2.3.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.3.1_Inactivity%20Interval%20Is%20Set%20To%2020%20Minutes%20Or%20Less%20For%20The%20Screen%20Saver/Audit_2.3.1.sh): Run the following command to verify that the screen saver idle time is set to less than or equal to 20 minutes
+* [Script_VerifyAllUsers](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.3.1_Inactivity%20Interval%20Is%20Set%20To%2020%20Minutes%20Or%20Less%20For%20The%20Screen%20Saver/Script_VerifyAllUsers.sh):Run this script to verify the idle times for all users
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.3.1_Inactivity%20Interval%20Is%20Set%20To%2020%20Minutes%20Or%20Less%20For%20The%20Screen%20Saver/Remediation_Compliant.sh): Run the following command to verify that the idle time of the screen saver is set to 20 minutes of less (≤1200)
 * [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
