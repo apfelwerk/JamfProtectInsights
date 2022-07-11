@@ -13,13 +13,13 @@
          <key>mcx_preference_settings</key>
 		   <dict>
                  <key>wvous-bl-corner</key>
-	             <integer><≠6></integer>
-		         <key>wvous-br-corner</key>
-				 <integer><≠6></integer>	
-		         <key>wvous-tl-corner</key>
-		         <integer><≠6></integer>	
-		         <key>wvous-tr-corner</key>
-				 <integer><≠6></integer>	  
+                 <integer><≠6></integer>
+                 <key>wvous-br-corner</key>
+                 <integer><≠6></integer>	
+                 <key>wvous-tl-corner</key>
+                 <integer><≠6></integer>	
+                 <key>wvous-tr-corner</key>
+                 <integer><≠6></integer>	  
 		   </dict>
 	</dict>
 </array>
