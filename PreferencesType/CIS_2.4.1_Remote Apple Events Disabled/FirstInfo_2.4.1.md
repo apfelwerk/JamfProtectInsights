@@ -1,4 +1,4 @@
-# Secure Screen Saver Corners Enabled
+# Remote Apple Events Disabled
 #### Benchmark Information
 - CIS Nr.: 2.4.1
 - Level: 1
