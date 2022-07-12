@@ -22,7 +22,8 @@ This are the files you can find about the Insight. Each of them has an use
 * [Audit_2.4.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.2_Internet%20Sharing%20Disabled/Audit_2.4.2.sh): Run the following commands to verify that Internet Sharing is not set.
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.2_Internet%20Sharing%20Disabled/Profile_Verification.sh): Or run the following command to verify that a profile is installed that automatically disables internet sharing.
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.2_Internet%20Sharing%20Disabled/Remediation_Compliant.sh): Run the following command to turn off Internet Sharing
-#### Note: Using the Terminal Method will not uncheck the setting in System Preferences>Sharing but will disable the underlying service.
+#### Note:
+Using the Terminal Method will not uncheck the setting in System Preferences>Sharing but will disable the underlying service.
 * [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.2_Internet%20Sharing%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
