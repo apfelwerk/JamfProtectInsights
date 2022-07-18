@@ -20,8 +20,9 @@ Control 2.1.1 discusses disabling Bluetooth if no paired devices exist. There is
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.4.7](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.7_Bluetooth%20Sharing%20Disabled/Audit_2.4.7.sh): Run the following command to verify that Bluetooth Sharing is disabled
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.7_Bluetooth%20Sharing%20Disabled/Remediation_Compliant.sh): Run the following command to disable Bluetooth Sharing is disabled.
-
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.7_Bluetooth%20Sharing%20Disabled/Profile_Verification.sh):Or run the following command to verify that a profile is installed that disables Bluetooth sharing
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.7_Bluetooth%20Sharing%20Disabled/Remediation_Compliant.sh): Run the following command to disable Bluetooth Sharing is disabled
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.7_Bluetooth%20Sharing%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
