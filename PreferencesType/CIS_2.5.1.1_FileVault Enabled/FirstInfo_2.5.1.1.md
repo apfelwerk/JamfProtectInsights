@@ -15,7 +15,9 @@ Encrypting sensitive data minimizes the likelihood of unauthorized users gaining
 ## Impact
 
 Mounting a FileVault encrypted volume from an alternate boot source will require a valid password to decrypt it
+
 ---
+
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.5.1.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.1.1_FileVault%20Enabled/Audit_2.5.1.1.sh): Run the following command to verify that FileVault is enabled
