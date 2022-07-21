@@ -18,11 +18,11 @@ Disallowing unsigned software will reduce the risk of unauthorized or malicious 
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.5.2.1](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Audit_2.5.2.1.sh): Run the following command to verify that Gatekeeper is enabled
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_Compliant.sh): Perform the following to enable FileVault
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables Gatekeeper
 
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_Compliant.sh): Perform the following to enable FileVault
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_Compliant.sh): Run the following command to enable Gatekeeper to allow applications from App Store and identified developers
 
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_Compliant.sh): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
