@@ -22,9 +22,9 @@ Media Sharing allows for pre-downloaded content on a Mac to be available to othe
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.4.12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.12_Media%20Sharing%20Disabled/Audit_2.4.12.sh): Run the following command to verify that Media Sharing is not enabled
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.10_Content%20Caching%20Disabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that disablesMedia Sharing
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.12_Media%20Sharing%20Disabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that disablesMedia Sharing
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.10_Content%20Caching%20Disabled/Remediation_Compliant.sh): Run the following command to disable Media Sharing
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.10_Content%20Caching%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.4.12_Media%20Sharing%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
