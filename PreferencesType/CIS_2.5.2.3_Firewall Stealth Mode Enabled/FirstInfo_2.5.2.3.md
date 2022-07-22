@@ -6,7 +6,8 @@
 ------------------------
 ## Description
 
-While in Stealth mode the computer will not respond to unsolicited probes, dropping that traffic. ```http://support.apple.com/en-us/HT201642```
+While in Stealth mode the computer will not respond to unsolicited probes, dropping that traffic.
+```http://support.apple.com/en-us/HT201642```
 
 ## Rationale
 
@@ -23,11 +24,11 @@ This control aligns with the primary macOS use case of a laptop that is often co
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.5.2.3](https://github.com/apfelwerk/JamfProtectInsights/tree/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled): Run the following command to verify that stealth mode is enabled
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables firewall stealth mode
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables firewall stealth mode
 
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/Remediatiom_Compliant.sh): Run the following command to enable stealth mode
 
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
