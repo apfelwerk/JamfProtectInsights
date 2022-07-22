@@ -35,7 +35,7 @@ This are the files you can find about the Insight. Each of them has an use
 ## Additional Information:
 Your organization might want to verify and limit specific applications that allow incoming connectivity. See the files below for more information:
 
-* [List_Apps](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.1_Gatekeeper%20Enabled/Remediation_mobileconfig.md): Run the following command to verify which applications are allowing incoming connection
+* [List_Apps](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/ListApps_Allow.md): Run the following command to verify which applications are allowing incoming connection
 
 * [Remove_Apps](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/RemoveApps.md): Run the following command to remove specific applications
 
