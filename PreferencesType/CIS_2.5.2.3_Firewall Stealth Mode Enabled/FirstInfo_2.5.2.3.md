@@ -7,6 +7,7 @@
 ## Description
 
 While in Stealth mode the computer will not respond to unsolicited probes, dropping that traffic.
+
 ```http://support.apple.com/en-us/HT201642```
 
 ## Rationale
