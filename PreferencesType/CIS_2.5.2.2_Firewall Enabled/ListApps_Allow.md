@@ -17,5 +17,3 @@ To verify those applications, perform the following to ensure the system is conf
 3. Select Firewall Options
 4. Select unneeded rule(s)
 5. Select the minus sign below to delete them
-
-```
