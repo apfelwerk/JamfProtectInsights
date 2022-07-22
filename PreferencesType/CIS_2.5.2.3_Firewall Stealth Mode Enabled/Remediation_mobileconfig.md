@@ -1,4 +1,4 @@
-# Gatekeeper Enabled
+# Firewall Stealth Mode Enabled
 ------------------------------------
 ## Profile Method
 ### Steps:
