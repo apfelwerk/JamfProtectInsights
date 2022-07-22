@@ -9,6 +9,8 @@ After you have the list and the Path from the specify Application, you can delet
 ### Steps:
 
 1. **Run the following command** to remove specific applications
+
 ```sudo /usr/libexec/ApplicationFirewall/socketfilterfw --remove </path/application name>```
+
 2. **Output:** Application at path ```( </path/application name> )``` removed from firewall 
 3. **Removed App** is the one with the specify path from the previous listing ```</path/application name>```
