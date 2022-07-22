@@ -8,7 +8,9 @@ To verify those applications, perform the following to ensure the system is conf
 ### Steps:
 
 1. **Run the following command** to verify which applications are allowing incoming connection
+
 ```sudo /usr/libexec/ApplicationFirewall/socketfilterfw --listapps```
+
 2. **Output:** The output will show any applications, and their path, and their associated rule
 3. **Perform** the following to remove unnecessary firewall rules:
 ````
