@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+# Copyright (c) 2022 Apfelwerk GmbH & Co. KG
+# # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
+# Title: Analytics & Improvements Sharing With Apple Disabled
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+# Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-24
+# Audit: or run the following command to verify that a profile is installed that disables sending diagnostic and usage data to Apple
+sudo /usr/bin/profiles -P -o stdout | /usr/bin/grep allowDiagnosticSubmission
+# Output: allowDiagnosticSubmission = 0;
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
