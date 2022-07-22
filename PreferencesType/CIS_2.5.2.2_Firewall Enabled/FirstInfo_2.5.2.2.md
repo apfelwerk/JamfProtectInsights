@@ -6,9 +6,7 @@
 ------------------------
 ## Description
 
-A firewall is a piece of software that blocks unwanted incoming connections to a system. Apple has posted general documentation about the application firewall.
-
-```http://support.apple.com/en-us/HT201642```
+A firewall is a piece of software that blocks unwanted incoming connections to a system. Apple has posted general documentation about the application firewall. ```http://support.apple.com/en-us/HT201642```
 
 ## Rationale
 
