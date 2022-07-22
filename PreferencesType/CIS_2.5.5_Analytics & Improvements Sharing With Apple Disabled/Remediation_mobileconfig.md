@@ -1,4 +1,4 @@
-# Gatekeeper Enabled
+# Analytics & Improvements Sharing With Apple Disabled
 ------------------------------------
 ## Profile Method
 ### Steps:
