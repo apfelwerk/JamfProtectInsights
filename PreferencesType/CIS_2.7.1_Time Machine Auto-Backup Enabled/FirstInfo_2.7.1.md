@@ -26,13 +26,13 @@ The backup will run periodically in the background and could have user impact wh
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_2.5.2.5](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.7.1_Time%20Machine%20Auto-Backup%20Enabled/Audit_2.7.1.sh): Run the following command to disable sending diagnostic and usage data to Apple
 
-* [Check_Date](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.5_Analytics%20%26%20Improvements%20Sharing%20With%20Apple%20Disabled/Profile_Verification.sh): Run the following command to check the snapshot dates to verify that the dates meet your organization's approved backup frequenc
+* [Check_Date](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.7.1_Time%20Machine%20Auto-Backup%20Enabled/Check_Snapshot_Dates.md): Run the following command to check the snapshot dates to verify that the dates meet your organization's approved backup frequenc
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.5_Analytics%20%26%20Improvements%20Sharing%20With%20Apple%20Disabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables auto backup if Time Machine enabled
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.7.1_Time%20Machine%20Auto-Backup%20Enabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables auto backup if Time Machine enabled
 
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.7.1_Time%20Machine%20Auto-Backup%20Enabled/Remediation_Compliant.sh): Perform the following to disable diagnostic data being sent to Apple
 
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.5_Analytics%20%26%20Improvements%20Sharing%20With%20Apple%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.7.1_Time%20Machine%20Auto-Backup%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
