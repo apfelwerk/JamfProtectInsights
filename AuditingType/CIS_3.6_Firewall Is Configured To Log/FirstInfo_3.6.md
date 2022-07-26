@@ -23,14 +23,19 @@ Detailed logging may result in excessive storage.
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_3.6](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Audit_3.6.sh): Run the following command to verify that the firewall log is enabled
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Audit_3.6.sh): Run the following command to verify that a profile is installed that enables Firewall Logging
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Profile_Verification.sh): Run the following command to verify that a profile is installed that enables Firewall Logging
 
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_Compliant.sh): Run the following command to enable logging of the firewall
 
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.2.1_Date%20%26%20Time%20Set%20Automatically/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 ---
 ## Note: 
-Firewall Logging must be enabled with this profile. It can either be set with the [Firewall_2.5.2.2] (https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md) and [StealthMode_2.5.2.3] (https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md) or as a separate profile. Setting logging with its own profile will not cause a conflict.
+Firewall Logging must be enabled with this profile. It can either be set with the 
+* [Firewall_2.5.2.2] (https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md) 
+
+* [StealthMode_2.5.2.3] (https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md) 
+
+or as a separate profile. Setting logging with its own profile will not cause a conflict.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
