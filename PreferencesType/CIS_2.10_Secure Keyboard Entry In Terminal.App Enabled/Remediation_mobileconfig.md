@@ -1,4 +1,4 @@
-# Analytics & Improvements Sharing With Apple Disabled
+# Secure Keyboard Entry In Terminal.App Enabled
 ------------------------------------
 ## Profile Method
 ### Steps:
