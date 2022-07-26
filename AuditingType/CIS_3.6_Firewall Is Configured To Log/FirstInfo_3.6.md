@@ -32,12 +32,7 @@ This are the files you can find about the Insight. Each of them has an use
 ## Note: 
 
 Firewall Logging must be enabled with this profile. It can either be set with the:
-s 
-* [Firewall_2.5.2.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md): A firewall minimizes the threat of unauthorized users from gaining access to your system while connected to a network or the Internet
-
-* [StealthMode_2.5.2.3](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md): Stealth mode on the firewall minimizes the threat of system discovery tools while connected to a network or the Internet
-
-or as a separate profile. Setting logging with its own profile will not cause a conflict.
+[Firewall_2.5.2.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md)and[StealthMode_2.5.2.3](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md) or as a separate profile. Setting logging with its own profile will not cause a conflict.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
