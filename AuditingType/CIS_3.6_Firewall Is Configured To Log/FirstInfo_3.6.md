@@ -31,8 +31,7 @@ This are the files you can find about the Insight. Each of them has an use
 ---
 ## Note: 
 
-Firewall Logging must be enabled with this profile. It can either be set with the:
-[Firewall](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md) and [StealthMode](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md) or as a separate profile. Setting logging with its own profile will not cause a conflict.
+Firewall Logging must be enabled with this profile. It can either be set with the [Firewall](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.2_Firewall%20Enabled/FirstInfo_2.5.2.2.md) and [StealthMode](https://github.com/apfelwerk/JamfProtectInsights/blob/main/PreferencesType/CIS_2.5.2.3_Firewall%20Stealth%20Mode%20Enabled/FirstInfo_2.5.2.3.md) or as a separate profile. Setting logging with its own profile will not cause a conflict.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
