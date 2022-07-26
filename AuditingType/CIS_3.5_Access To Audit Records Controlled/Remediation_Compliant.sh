@@ -11,5 +11,3 @@ sudo chmod -R o-rw /etc/security/audit_control
 sudo chown -R root:wheel /var/audit/
 sudo chmod -R o-rw /var/audit/
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Note: It is recommended to do a thorough verification process on why the audit logs have been changed before following the remediation steps. If the system has different access controls on the audit logs, and the changes cannot be traced, a new install may be prudent. Check for signs of file tampering as well as unapproved OS changes.
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
