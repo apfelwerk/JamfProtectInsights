@@ -27,9 +27,9 @@ This are the files you can find about the Insight. Each of them has an use
 
 ```Note: If automatic updates were selected during system set-up this setting may not have left an auditable artifact. Please turn off the check and re-enable when the GUI does not reflect the audited results.```
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.4_App%20Updated%20Installs%20Enabled/Profile_Verification.sh):or run the following commands to verify that a profile is installed that enables system data files and security updates to automatically download
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Profile_Verification.sh):or run the following commands to verify that a profile is installed that enables system data files and security updates to automatically download
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_Compliant.sh): Run the following commands to enable automatically checking of system data files and security updates:
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.4_App%20Updated%20Installs%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
