@@ -29,7 +29,7 @@ This are the files you can find about the Insight. Each of them has an use
 
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.2_Auto%20Update%20Enabled/Profile_Verification.sh): or run the following command to verify that a profile is installed that enables software updates to be automatically checked:
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.2_Auto%20Update%20Enabled/Remediation_Compliant.sh): Run the following command to enable auto update
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.2_Auto%20Update%20Enabled/Profile_Verification.sh): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.2_Auto%20Update%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
