@@ -8,4 +8,4 @@
 2. **Add** the key ```ConfigDataInstall```
 3. **Set** the key to ```<true/>```
 4. **Add** the key ```CriticalUpdateInstall```
-5. **Set** the key to ```<true/>``
+5. **Set** the key to ```<true/>```
