@@ -4,8 +4,8 @@
 # # # # # # # # # # # Jamf Protect # # # # # # # # # # # 
 # Title: Guests Allowed To Connect To Shared Folders Disabled
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-# Version 1.0 edited by Manuela Munoz Bocanegra on 2022-05-17
-# Audit: Run the following commands to verify that shared folders are not accessible to guest users
-sudo /usr/bin/defaults read /Library/Preferences/SystemConfiguration/com.apple.smb.server AllowGuestAccess
-# if Complaint then Output: 0
+# Version 1.0 edited by Manuela Munoz Bocanegra on 2022-08-03
+# Audit: or run the following command to verify that a profile is installed that disables the Guest account to connect to shared folders
+sudo /usr/bin/profiles -P -o stdout | /usr/bin/grep AllowGuestAccess
+#Output: AllowGuestAccess = 0;
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
