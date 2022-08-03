@@ -20,9 +20,9 @@ A guest user can use that access to find out additional information about the sy
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
 * [Audit_6.1.3](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.3_Guest%20Account%20Disabled/Audit_6.1.3.sh): Run the following command to verify if the guest account is enabled
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.2_Show%20Password%20Hints%20Disabled/Profile_Verification.sh): Run the following command to verify that the Guest account is disabled
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.3_Guest%20Account%20Disabled/Profile_Verification.sh): Run the following command to verify that the Guest account is disabled
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.3_Guest%20Account%20Disabled/Remediation_Compliant.sh): Run the following command to disable the guest account
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.2_Show%20Password%20Hints%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UsersType/CIS_6.1.3_Guest%20Account%20Disabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 #### Additional Information
 By default, the guest account is enabled for access to sharing services but is not allowed to log in to the computer.
