@@ -23,9 +23,9 @@ This are the files you can find about the Insight. Each of them has an use
 
 ```Note: If automatic updates were selected during system set-up this setting may not have left an auditable artifact. Please turn off the check and re-enable when the GUI does not reflect the audited results.```
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Profile_Verification.sh):Run the following command to verify that a profile is installed that enables the installation of macOS updates
+* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.6_MacOS%20Update%20Installs%20Enabled/Profile_Verification.sh):Run the following command to verify that a profile is installed that enables the installation of macOS updates
 * [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.6_MacOS%20Update%20Installs%20Enabled/Remediation_Compliant.sh): Run the following command to to enable automatic checking and installing of macOS updates
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.6_MacOS%20Update%20Installs%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
