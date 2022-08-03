@@ -23,12 +23,12 @@ Unpatched software may be exploited.
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_1.4](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Audit_1.5.sh): Run the following commands to verify that system data files and security updates are automatically checked
+* [Audit_1.5](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Audit_1.5.sh): Run the following commands to verify that system data files and security updates are automatically checked
 
 ```Note: If automatic updates were selected during system set-up this setting may not have left an auditable artifact. Please turn off the check and re-enable when the GUI does not reflect the audited results.```
 
 * [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Profile_Verification.sh):or run the following commands to verify that a profile is installed that enables system data files and security updates to automatically download
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_Compliant.sh): Run the following commands to enable automatically checking of system data files and security updates:
+* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_Compliant.sh): Run the following commands to enable automatically checking of system data files and security updates
 * [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/UpdatesType/CIS_1.5_System%20Data%20Files%20And%20Security%20Installs%20Enabled/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
