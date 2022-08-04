@@ -3,9 +3,7 @@ name: CIS Benchmark latest
 about: This is just necessary if there is a new CIS Benchmark  release and there is
   Changes in the actually Benchmarks (CIS_Apple_macOS_12.0_Monterey_Benchmark_v1.0.0)
   from 12-03-2021
-title: ''
 labels: documentation, invalid
-assignees: ''
 
 ---
 
