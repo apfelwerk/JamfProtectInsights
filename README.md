@@ -1,28 +1,36 @@
-# JamfProtectInsights
+# JamfProtect and CIS Benchmarks
 <img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="450">
 
 ## Table of Contents
-1. [General Info](#general-info)
+1. [Jamf Protect](#Jamf-Protect)
 2. [CIS Benchmark](#CIS_Benchmark)
 3. [Insight_Management](#Insight-Management)
 4. [Google Formular](#Google-Formular)
 5. [Collaboration](#collaboration)
 6. [FAQs](#faqs)
 
-
-## General Info
-Jamf Protect ist eine moderne Sicherheitslösung für macOS, nicht vergleichbar mit traditionellen Virenscannern. Traditionelle Viren sind auf Apples Plattform keine typische Bedrohung, vielmehr Malware, AdWare, PUP (Potentially Unwanted Software), Trojaner. Jamf Protect nutzt native Apple Sicherheitstools und das neue Endpoint Security Framework von Apple sowie die Analyse von macOS Systemereignissen auf dem Gerät. Exklusiv für macOS entwickelt, bietet Jamf Protect eine Komplettlösung zur Aufrechterhaltung der Endpoint-Compliance sowie zur Überwachung, Reaktion und Behebung von Sicherheitsvorfällen auf dem Mac mit minimalen Auswirkungen auf das Gerät und das Endbenutzererlebnis.
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
 
 
+## Jamf Protect
 
-Apple hat erkannt, dass der klassische Weg von retro-aktiver Erkennung ungenügend ist und hat sich entschlossen ein System zu schaffen, das verschiedene Sensoren und Schutzfunktionen des Betriebsystems nutzt: unter Anderem Dateizugriffe, Log-System, interne Schnittstellen zum Speicherbedarf, etc. Über diese Schnittstellen der nativen Sicherheitstools wie z.B. XProtect und Gatekeeper prüft Jamf Protect die laufenden Prozesse, checkt Logs und eine Reihe von weiteren Elementen wie z.B. die laufenden Prozesse, Dateiveränderungen. Darauf basierend lernt die KI mit, wenn es ungewöhnliche und problematische Aktivitäten gibt.
+Jamf Protect is an endpoint security solution designed to help businesses identify, prevent and resolve threats across Mac devices. The application allows users to gain visibility across remote devices and send automated alerts in case suspicious activities are detected across scripts and software.
 
-   - Umfassende Erkennung von Mac-spezifischen Bedrohungen und Malware-Prävention.
-   - Überwachung der Compliance von macOS Geräten.
-   - Sichern von Apple Geräten mit minimalen Auswirkungen auf Endbenutzer
+Businesses can connect Jamf Protect with Jamf Pro and Jamf Connect to facilitate investigation management, machine isolation, threat response and security configuration administration. It stores data in a centralized repository and monitors devices in compliance with industry benchmarks such as the Center for Internet Security (CIS). Additionally, IT teams can receive notifications if devices deviate from defined OS hardening configurations.
 
+* [Quelle](https://www.softwareadvice.com/security/jamf-protect-profile/): Here you can find more Information about Jamf Protect and some opinions from other customers or Engineers.
 
-Ein weiteres integriertes Element von Jamf Protect ist der Check des CIS-Benchmark (Center for Internet Security-Security für macOS) und die Anzeige der aktuellen Sicherheitseinstellungen im Vergleich zu den potentiell möglichen Sicherheitseinstellungem. Dadurch bietet Jamf Protect eine detailliert Einsicht in die nativen macOS-Sicherheitsfunktionen und eine Echtzeitauswertung von relevanten Ereignissen.
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Produkten.png" width="250">
 
-Jamf Protect nutzt die nativen Sicherheitswerkzeuge von Apple. Die konstante Analyse von macOS Systemereignissen und die Mac-orientierten Lösungen für Sicherheitsrisiken macht Jamf Protect zu der besten Sicherheitslösung für macOS Endgeräte. Jamf Protect erkennt macOS Malware und schützt Geräte vor bekannter und neuer Malware.
+## CIS Benchmark
 
+The Center for Internet Security, Inc. (CIS) is a 501(c)(3) nonprofit organization
+focused on enhancing the cybersecurity readiness and response of public and
+private sector entities.
+
+CIS provides recommendations within different macOS categories where setting controls should be implemented to lessen the possibility of data exfiltration.
+
+While **Jamf Pro** gives you the ability and tools to follow CIS recommendations, **Jamf Protect** automates the assessment of the essential CIS security settings on a daily bases to validate compliance and auditing oversight across the Benchmark for macOS and your organization’s security priorities.
+
+_**Jamf Protect AND CIS**_
+> Jamf Protect was recently issued CIS Benchmark certification by CIS. Organizations that leverage Jamf Protect can now ensure that the configurations of their critical assets align with the CIS Benchmark consensus-based practice standards for macOS.
