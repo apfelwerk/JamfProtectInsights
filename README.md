@@ -20,7 +20,7 @@ Businesses can connect Jamf Protect with Jamf Pro and Jamf Connect to facilitate
 
 * [Quelle](https://www.softwareadvice.com/security/jamf-protect-profile/): Here you can find more Information about Jamf Protect and some opinions from other customers or Engineers.
 
-<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Produkten.png" width="450">
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Produkten.png" width="850">
 
 ## CIS Benchmark
 
