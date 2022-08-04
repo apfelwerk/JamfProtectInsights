@@ -67,6 +67,10 @@ both physical and remote attacks.
 ## Features in Jamf Protect:
 Assesses all settings highlighted here to validate compliance for system preferences
 
+---
+## Quelle
+* [Jamf Resources](https://www.jamf.com/resources/white-papers/macos-security-checklist/)
+
 ----
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
