@@ -1,5 +1,16 @@
 # JamfProtectInsights
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="250">
 
+## Table of Contents
+1. [General Info](#general-info)
+2. [CIS Benchmark](#CIS_Benchmark)
+3. [Insight_Management](#Insight-Management)
+4. [Google Formular](#Google-Formular)
+5. [Collaboration](#collaboration)
+6. [FAQs](#faqs)
+
+
+## General Info
 Jamf Protect ist eine moderne Sicherheitslösung für macOS, nicht vergleichbar mit traditionellen Virenscannern. Traditionelle Viren sind auf Apples Plattform keine typische Bedrohung, vielmehr Malware, AdWare, PUP (Potentially Unwanted Software), Trojaner. Jamf Protect nutzt native Apple Sicherheitstools und das neue Endpoint Security Framework von Apple sowie die Analyse von macOS Systemereignissen auf dem Gerät. Exklusiv für macOS entwickelt, bietet Jamf Protect eine Komplettlösung zur Aufrechterhaltung der Endpoint-Compliance sowie zur Überwachung, Reaktion und Behebung von Sicherheitsvorfällen auf dem Mac mit minimalen Auswirkungen auf das Gerät und das Endbenutzererlebnis.
 
 
