@@ -9,10 +9,10 @@ assignees: ''
 
 ---
 
-**Please tell us which Benchmark number has been changed**
+**Please tell us which Benchmark number has been changed:**
 Remember that in this Repository we use an exakt form to name our Files/Benchmark . Ex. "CIS_3.1_Security Auditing Enabled" 
 
-**What has exactly changed**
+**What has exactly changed:**
 A clear and concise description of which File has changed: 
 - First Info
 - Audit
@@ -20,5 +20,5 @@ A clear and concise description of which File has changed:
 - Remediation
 - Remediation_mobileconfig: Profile Method
 
-**Additional Informatiom**
+**Additional Information:**
 is there something we don't have yet?
