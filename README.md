@@ -1,5 +1,5 @@
 # JamfProtectInsights
-<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="250">
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="450">
 
 ## Table of Contents
 1. [General Info](#general-info)
