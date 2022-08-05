@@ -8,7 +8,6 @@
 2. [CIS Benchmark](#CIS_Benchmark)
 3. [Jamf Protect & CIS](#Jamf-Protect-&-CIS)
 4. [Insight Management](#Insight-Management)
-- [CIS Benchmark Levels](#CIS-Benchmark-Levels)
 5. [Google Formular](#Google-Formular)
 6. [CIS Script](#CIS-Script)
 7. [Quelle](#Quelle)
@@ -23,7 +22,7 @@ Businesses can connect Jamf Protect with Jamf Pro and Jamf Connect to facilitate
 
 ### CIS Benchmark:
 ----
-<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="150">
 
 The Center for Internet Security, Inc. (CIS) is a 501(c)(3) nonprofit organization
 focused on enhancing the cybersecurity readiness and response of public and
