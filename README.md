@@ -1,6 +1,8 @@
 # JamfProtect and CIS Benchmarks
 <img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="450">
 
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
+
 ## Table of Contents
 1. [Jamf Protect](#Jamf-Protect)
 2. [CIS Benchmark](#CIS_Benchmark)
@@ -8,9 +10,6 @@
 4. [Google Formular](#Google-Formular)
 5. [Collaboration](#collaboration)
 6. [FAQs](#faqs)
-
-<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
-
 
 ### Jamf Protect
 
