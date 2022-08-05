@@ -1,5 +1,7 @@
 # System Preferences
 
+<img align= "left" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="80">
+
 ## Information:
 Jamf Pro helps you configure System Preferences to meet your organization’s security needs.
 Common and advanced settings can be set across your Mac fleet to harden your security against both physical and remote attacks.

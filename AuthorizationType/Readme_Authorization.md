@@ -1,5 +1,7 @@
 # System Access, Authentication and Authorization
 
+<img align= "left" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="80">
+
 ## Information:
 Jamf Pro helps set file permissions, strong password policies and manage keychain access for users. By creating a configuration profile or Jamf Pro Server policy, you can remotely enable system access settings to create a more secure Mac.
 

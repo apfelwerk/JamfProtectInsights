@@ -1,5 +1,7 @@
 # Networking
 
+<img align= "left" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="80">
+
 ## Information:
 Jamf Pro makes rolling out network configurations easy for IT admins by distributing Wi-Fi, VPN, and even DNS settings. Jamf Pro also ensures some of the legacy server components of macOS are disabled so users are not accidentally opening up ports they don’t know about.
 

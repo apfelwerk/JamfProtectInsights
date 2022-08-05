@@ -1,5 +1,7 @@
 # Auditing
 
+<img align= "left" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="80">
+
 ## Information:
 Jamf Pro can help IT admins keep track of the logs that macOS generates and centralizes them in one place. Admins can also run advanced reports on those logs to look for any potential security issues.
 
