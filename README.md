@@ -9,7 +9,7 @@
 5. [Collaboration](#collaboration)
 6. [FAQs](#faqs)
 
-<img style="float: right;" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
 
 
 ### Jamf Protect
