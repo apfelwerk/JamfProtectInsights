@@ -37,7 +37,7 @@ While **Jamf Pro** gives you the ability and tools to follow CIS recommendations
 
 Jamf Protect was recently issued CIS Benchmark certification by CIS. Organizations that leverage Jamf Protect can now ensure that the configurations of their critical assets align with the CIS Benchmark consensus-based practice standards for macOS.
 
-## Insight Management:
+### Insight Management:
 ---
 
 The Insights page allows you to view and filter insights by category, CIS level, and status (enabled or disabled). Each insight also contains a bar graph that shows the overall compliance status for computers in your organization.
@@ -58,24 +58,24 @@ CIS Level 2: Includes all level 1 benchmarks in addition to advanced benchmarks 
 
 ```
 ---
-## Google Formular:
+### Google Formular:
 This is a [Questionary](https://docs.google.com/forms/d/e/1FAIpQLSdPSP4CbxyT2BfVQ9LZSr3h1r0H-5LlJKZnr15Ycc3ZGRc2SA/viewform) for your customer. Ask them what they need and decide with them what should be active or desactive. Then configure the Jamf Protect and Pro for them.
 
 ---
 <img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-Script.png" width="150">
 
-## CIS Script:
+### CIS Script:
 
 This is the next step to follow, to integrate CIS Benchmark, Jamf Protect and Jamf Pro and still have a report. Please read this idea from Mischa [CIS SCRIPT](https://github.com/mvdbent/CIS-Script) and then go with it! You can do it. 
 
 
 ---
-## Quelle
+### Quelle
 * [Jamf Resources MacOS](https://www.jamf.com/resources/white-papers/macos-security-checklist/): MacOS Security Checklist.
 * [Jamf Resources iOS](https://www.jamf.com/resources/white-papers/macos-security-checklist/): iOS Security Checklist.
 * [Jamf Docs](https://www.jamf.com/resources/white-papers/macos-security-checklist/): This guide contains overviews and instructions about using Jamf Protect. It does not prescribe administrative workflows or strategies but is intended to be used as a reference.
 * [Jamf Protect Review](https://www.softwareadvice.com/security/jamf-protect-profile/): Here you can find more Information about Jamf Protect and some opinions from other customers or Engineers.
 
 ----
-## Contributors
+### Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
