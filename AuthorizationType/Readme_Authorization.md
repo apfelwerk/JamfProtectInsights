@@ -6,6 +6,9 @@
 Jamf Pro helps set file permissions, strong password policies and manage keychain access for users. By creating a configuration profile or Jamf Pro Server policy, you can remotely enable system access settings to create a more secure Mac.
 
 ----
+
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="200">
+
 ## CIS Benchmark Recommendations:
 
 ### Password Management:
