@@ -7,6 +7,8 @@
 Jamf Pro enables you to keep your macOS and applications up to date by packaging and deploying updates to your client Macs remotely. You can even build a report to monitor the status of macOS upgrades in real time to ensure your Mac fleet is running the latest, most secure OS available.
 
 ----
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="200">
+
 ## CIS Benchmark Recommendations:
 
 * [Apple Provided Software Is Current](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.1_Bonjour%20Advertising%20Service%20Disabled/FirstInfo_4.1.md)

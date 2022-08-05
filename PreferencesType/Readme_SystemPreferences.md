@@ -7,6 +7,8 @@ Jamf Pro helps you configure System Preferences to meet your organization’s se
 Common and advanced settings can be set across your Mac fleet to harden your security against both physical and remote attacks.
 
 ----
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="200">
+
 ## CIS Benchmark Recommendations:
 
 ### Bluetooth:
