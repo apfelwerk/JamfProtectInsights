@@ -1,5 +1,7 @@
 # Installing Updates, Patches, and Security Software
 
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="250">
+
 ## Information:
 
 Jamf Pro enables you to keep your macOS and applications up to date by packaging and deploying updates to your client Macs remotely. You can even build a report to monitor the status of macOS upgrades in real time to ensure your Mac fleet is running the latest, most secure OS available.
