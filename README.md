@@ -2,13 +2,15 @@
 <img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="350">
 
 ## Table of Contents
+---
+
 1. [Jamf Protect](#Jamf-Protect)
 2. [CIS Benchmark](#CIS_Benchmark)
 3. [Jamf Protect & CIS](#Jamf-Protect-&-CIS)
-3. [Insight Management](#Insight-Management)
-4. [Google Formular](#Google-Formular)
-5. [Collaboration](#collaboration)
-6. [FAQs](#faqs)
+4. [Insight Management](#Insight-Management)
+5. [Google Formular](#Google-Formular)
+6. [Collaboration](#collaboration)
+7. [FAQs](#faqs)
 
 ### Jamf Protect:
 ----
