@@ -1,8 +1,6 @@
 # Jamf Protect and CIS Benchmarks
 <img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="350">
 
-<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
-
 ## Table of Contents
 1. [Jamf Protect](#Jamf-Protect)
 2. [CIS Benchmark](#CIS_Benchmark)
@@ -18,6 +16,8 @@ Jamf Protect is an endpoint security solution designed to help businesses identi
 Businesses can connect Jamf Protect with Jamf Pro and Jamf Connect to facilitate investigation management, machine isolation, threat response and security configuration administration. It stores data in a centralized repository and monitors devices in compliance with industry benchmarks such as the Center for Internet Security (CIS). Additionally, IT teams can receive notifications if devices deviate from defined OS hardening configurations.
 
 * [Quelle](https://www.softwareadvice.com/security/jamf-protect-profile/): Here you can find more Information about Jamf Protect and some opinions from other customers or Engineers.
+
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
 
 ### CIS Benchmark
 
