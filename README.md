@@ -62,7 +62,7 @@ CIS Level 2: Includes all level 1 benchmarks in addition to advanced benchmarks 
 This is a [Questionary](https://docs.google.com/forms/d/e/1FAIpQLSdPSP4CbxyT2BfVQ9LZSr3h1r0H-5LlJKZnr15Ycc3ZGRc2SA/viewform) for your customer. Ask them what they need and decide with them what should be active or desactive. Then configure the Jamf Protect and Pro for them.
 
 ---
-<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-Script.png" width="250">
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-Script.png" width="150">
 
 ## CIS Script:
 
