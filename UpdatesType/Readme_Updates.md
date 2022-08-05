@@ -1,6 +1,6 @@
 # Installing Updates, Patches, and Security Software
 
-<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="250">
+<img align= "left"src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="150">
 
 ## Information:
 
