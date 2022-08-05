@@ -1,5 +1,5 @@
-# JamfProtect and CIS Benchmarks
-<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="450">
+# Jamf Protect and CIS Benchmarks
+<img src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf-Protect-one-color%20(1).png" width="350">
 
 <img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
 
