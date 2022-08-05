@@ -1,4 +1,4 @@
-# Installing Updates, Patches, and Security Software
+# Installing Updates, Patches and Security Software
 
 <img align= "left" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/Jamf%20Logo.png" width="80">
 
