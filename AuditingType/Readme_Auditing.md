@@ -6,7 +6,7 @@
 Jamf Pro can help IT admins keep track of the logs that macOS generates and centralizes them in one place. Admins can also run advanced reports on those logs to look for any potential security issues.
 
 ----
-<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="250">
+<img align= "right" src="https://github.com/apfelwerk/JamfProtectInsights/blob/main/Extra/CIS-macOS-Security.png" width="150">
 
 ## CIS Benchmark Recommendations:
 
