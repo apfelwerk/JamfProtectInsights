@@ -2,8 +2,7 @@
 
 ## Information:
 Jamf Pro helps you configure System Preferences to meet your organization’s security needs.
-Common and advanced settings can be set across your Mac fleet to harden your security against
-both physical and remote attacks.
+Common and advanced settings can be set across your Mac fleet to harden your security against both physical and remote attacks.
 
 ----
 ## CIS Benchmark Recommendations:
