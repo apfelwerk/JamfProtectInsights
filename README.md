@@ -32,6 +32,8 @@ CIS provides recommendations within different macOS categories where setting con
 
 While **Jamf Pro** gives you the ability and tools to follow CIS recommendations, **Jamf Protect** automates the assessment of the essential CIS security settings on a daily bases to validate compliance and auditing oversight across the Benchmark for macOS and your organization’s security priorities.
 
+Download [here](https://downloads.cisecurity.org/#/)the Latest CIS Benchmark release for macOS. 
+
 ### Jamf Protect & CIS: 
 ---
 
