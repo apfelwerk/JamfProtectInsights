@@ -5,7 +5,7 @@
 ---
 
 1. [Jamf Protect](#Jamf-Protect)
-2. [CIS Benchmark](#CIS_Benchmark)
+2. [CIS Benchmark](#CIS-Benchmark)
 3. [Jamf Protect & CIS](#Jamf-Protect-&-CIS)
 4. [Insight Management](#Insight-Management)
 5. [Google Formular](#Google-Formular)
