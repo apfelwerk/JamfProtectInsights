@@ -22,10 +22,10 @@ Short passwords can be easily attacked.
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.2.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Audit_5.2.2.sh): Run Run the following command to verify that the password length is greater than or equal to 15 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Profile_Verification.sh): or Run the following command to verify that a profile is installed
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_Compliant.sh): Run the following command to set the password length to greater than or equal to 15
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Audit_5.2.2_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Audit_5.2.2.sh_macOS12): Run Run the following command to verify that the password length is greater than or equal to 15 
+* [Profile_Verification_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Profile_Verification_macOS12.sh): or Run the following command to verify that a profile is installed
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_Compliant_macOS12.sh): Run the following command to set the password length to greater than or equal to 15
+* [Remediation_mobileconfig_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.2.2_Minimum%20Password%20Length%20Set/Remediation_mobileconfig_macOS12.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

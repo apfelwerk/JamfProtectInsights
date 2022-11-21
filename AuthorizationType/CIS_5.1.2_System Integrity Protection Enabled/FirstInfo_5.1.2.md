@@ -19,8 +19,8 @@ System binaries and processes could become compromised.
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.1.2](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.1.2_System%20Integrity%20Protection%20Enabled/Audit_5.1.2.sh): Run the following command to verify that System Integrity Protection is enabled   
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.1.2_System%20Integrity%20Protection%20Enabled/Remediation_Complaint.sh): Perform the following to enable System Integrity Protection
+* [Audit_5.1.2_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.1.2_System%20Integrity%20Protection%20Enabled/Audit_5.1.2_macOS12.sh): Run the following command to verify that System Integrity Protection is enabled   
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.1.2_System%20Integrity%20Protection%20Enabled/Remediation_Complaint_macOS12.sh): Perform the following to enable System Integrity Protection
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
