@@ -19,8 +19,8 @@ Some legacy POSIX software might expect an available root account.
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.6](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.6_Root%20Account%20Disabled/Audit_5.6.sh): Perform the following to ensure that the root user is not enabled
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.6_Root%20Account%20Disabled/Remediation_Compliant.sh): Run the following command to disable the root user 
+* [Audit_5.6_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.6_Root%20Account%20Disabled/Audit_5.6_macOS12.sh): Perform the following to ensure that the root user is not enabled
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.6_Root%20Account%20Disabled/Remediation_Compliant_macOS12.sh): Run the following command to disable the root user 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

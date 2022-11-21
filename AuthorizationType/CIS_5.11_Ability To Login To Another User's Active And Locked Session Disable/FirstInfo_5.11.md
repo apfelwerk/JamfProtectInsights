@@ -19,8 +19,8 @@ While Fast user switching is a workaround for some lab environments especially w
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.11](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.11_Ability%20To%20Login%20To%20Another%20User's%20Active%20And%20Locked%20Session%20Disable/Audit_5.11.sh): Run the following command to verify that a user cannot log into another user's active and/or locked session
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.11_Ability%20To%20Login%20To%20Another%20User's%20Active%20And%20Locked%20Session%20Disable/Remediation_Compliant.sh): Run the following command to disable a user logging into another user's active and/or locked session
+* [Audit_5.11_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.11_Ability%20To%20Login%20To%20Another%20User's%20Active%20And%20Locked%20Session%20Disable/Audit_5.11_macOS12.sh): Run the following command to verify that a user cannot log into another user's active and/or locked session
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.11_Ability%20To%20Login%20To%20Another%20User's%20Active%20And%20Locked%20Session%20Disable/Remediation_Compliant_macOS12.sh): Run the following command to disable a user logging into another user's active and/or locked session
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
