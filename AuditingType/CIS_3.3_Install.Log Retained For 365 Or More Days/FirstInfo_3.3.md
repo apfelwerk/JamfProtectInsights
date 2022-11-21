@@ -29,8 +29,8 @@ Without log files system maintenance and security forensics cannot be properly p
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_3.3_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.3_Install.Log%20Retained%20For%20365%20Or%20More%20Days/Audit_3.3.sh): Perform the following to ensure that the install logs are retained for at least 365 days with no maximum size
-* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.3_Install.Log%20Retained%20For%20365%20Or%20More%20Days/Remediation_mobileconfig.md): Perform the following to ensure that install logs are retained for at least 365 days
+* [Audit_3.3_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.3_Install.Log%20Retained%20For%20365%20Or%20More%20Days/Audit_3.3_macOS12.sh): Perform the following to ensure that the install logs are retained for at least 365 days with no maximum size
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.3_Install.Log%20Retained%20For%20365%20Or%20More%20Days/Remediation_mobileconfig_macOS12.md): Perform the following to ensure that install logs are retained for at least 365 days
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
