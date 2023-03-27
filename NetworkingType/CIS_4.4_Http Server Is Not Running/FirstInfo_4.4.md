@@ -20,8 +20,8 @@ The web server is both a point of attack for the system and a means for unauthor
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_4.4](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.4_Http%20Server%20Is%20Not%20Running/Audit_4.4.sh): Run the following command to verify that the http server services are not currently enabled. 
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.4_Http%20Server%20Is%20Not%20Running/Remediation_Compliant.sh): Run the following command to disable the http server services
+* [Audit_4.4_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.4_Http%20Server%20Is%20Not%20Running/Audit_4.4_macOS12.sh): Run the following command to verify that the http server services are not currently enabled. 
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.4_Http%20Server%20Is%20Not%20Running/Remediation_Compliant_macOS12.sh): Run the following command to disable the http server services
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

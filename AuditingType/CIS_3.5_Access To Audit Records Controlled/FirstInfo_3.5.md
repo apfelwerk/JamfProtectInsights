@@ -21,8 +21,8 @@ This control is only checking the default configuration to ensure that unwanted 
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_3.5](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.5_Access%20To%20Audit%20Records%20Controlled/Audit_3.5.sh): Run the following commands to check file access rights
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.5_Access%20To%20Audit%20Records%20Controlled/Remediation_Compliant.sh): Run the following to commands to set the audit records to the root user and wheel group
+* [Audit_3.5_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.5_Access%20To%20Audit%20Records%20Controlled/Audit_3.5_macOS12.sh): Run the following commands to check file access rights
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.5_Access%20To%20Audit%20Records%20Controlled/Remediation_Compliant_macOS12.sh): Run the following to commands to set the audit records to the root user and wheel group
 
 
 ---

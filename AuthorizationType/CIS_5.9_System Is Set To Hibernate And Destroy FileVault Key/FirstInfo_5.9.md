@@ -24,8 +24,8 @@ The laptop will take additional time to resume normal operation then if only sle
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.9](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.9_System%20Is%20Set%20To%20Hibernate%20And%20Destroy%20FileVault%20Key/Audit_5.9.sh): Run the following command to verify the hibernation settings and that FileVault keys are destroyed on standby
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.9_System%20Is%20Set%20To%20Hibernate%20And%20Destroy%20FileVault%20Key/Remediation_Compliant.sh): Run the following command to set the hibernate delays and to ensure the FileVault keys are set to be destroyed on standby 
+* [Audit_5.9_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.9_System%20Is%20Set%20To%20Hibernate%20And%20Destroy%20FileVault%20Key/Audit_5.9_macOS12.sh): Run the following command to verify the hibernation settings and that FileVault keys are destroyed on standby
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.9_System%20Is%20Set%20To%20Hibernate%20And%20Destroy%20FileVault%20Key/Remediation_Compliant_macOS12.sh): Run the following command to set the hibernate delays and to ensure the FileVault keys are set to be destroyed on standby 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

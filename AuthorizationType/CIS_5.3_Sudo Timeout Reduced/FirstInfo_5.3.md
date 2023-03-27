@@ -18,8 +18,8 @@ This control has a serious impact where users often have to use sudo. It is even
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.3](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.3_Sudo%20Timeout%20Reduced/Audit_5.3.sh):Perform the following to verify the sudo timeout period
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.3_Sudo%20Timeout%20Reduced/Remediation_Compliant.sh): Run the following command to edit the sudo settings
+* [Audit_5.3_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.3_Sudo%20Timeout%20Reduced/Audit_5.3_macOS12.sh):Perform the following to verify the sudo timeout period
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.3_Sudo%20Timeout%20Reduced/Remediation_Compliant_macOS12.sh): Run the following command to edit the sudo settings
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

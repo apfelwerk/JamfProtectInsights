@@ -19,8 +19,8 @@ Without a screenlock in place anyone with physical access to the computer would 
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_5.8](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.8_Password%20Required%20To%20Wake%20Computer%20From%20Sleep%20Or%20Screen%20Saver/Audit_5.8.sh): Run the following command to verify that a profile is installed that requires a password to wake the computer from sleep or from the screen saver.
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.8_Password%20Required%20To%20Wake%20Computer%20From%20Sleep%20Or%20Screen%20Saver/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Audit_5.8_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.8_Password%20Required%20To%20Wake%20Computer%20From%20Sleep%20Or%20Screen%20Saver/Audit_5.8_macOS12.sh): Run the following command to verify that a profile is installed that requires a password to wake the computer from sleep or from the screen saver.
+* [Remediation_mobileconfig_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuthorizationType/CIS_5.8_Password%20Required%20To%20Wake%20Computer%20From%20Sleep%20Or%20Screen%20Saver/Remediation_mobileconfig_macOS12.md): Follow the steps to create or edit a configuration Profile
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)

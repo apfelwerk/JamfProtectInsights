@@ -21,13 +21,13 @@ Detailed logging may result in excessive storage.
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_3.6](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Audit_3.6.sh): Run the following command to verify that the firewall log is enabled
+* [Audit_3.6_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Audit_3.6_macOS12.sh): Run the following command to verify that the firewall log is enabled
 
-* [Profile_Verification](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Profile_Verification.sh): Run the following command to verify that a profile is installed that enables Firewall Logging
+* [Profile_Verification_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Profile_Verification_macOS12.sh): Run the following command to verify that a profile is installed that enables Firewall Logging
 
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_Compliant.sh): Run the following command to enable logging of the firewall
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_Compliant_macOS12.sh): Run the following command to enable logging of the firewall
 
-* [Remediation_mobileconfig](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_mobileconfig.md): Follow the steps to create or edit a configuration Profile
+* [Remediation_mobileconfig_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/AuditingType/CIS_3.6_Firewall%20Is%20Configured%20To%20Log/Remediation_mobileconfig_macOS12.md): Follow the steps to create or edit a configuration Profile
 ---
 ## Note: 
 

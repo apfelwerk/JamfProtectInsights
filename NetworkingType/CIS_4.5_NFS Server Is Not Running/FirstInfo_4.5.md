@@ -20,8 +20,8 @@ The nfs server is both a point of attack for the system and a means for unauthor
 ---
 ## Content
 This are the files you can find about the Insight. Each of them has an use 
-* [Audit_4.5](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.5_NFS%20Server%20Is%20Not%20Running/Audit_4.5.sh):  Run the following commands to verify that the NFS fileserver service is not enabled. 
-* [Remediation_Compliant](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.5_NFS%20Server%20Is%20Not%20Running/Remediation_Compliant.sh): Run the following command to disable the nfsd fileserver services
+* [Audit_4.5_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.5_NFS%20Server%20Is%20Not%20Running/Audit_4.5_macOS12.sh):  Run the following commands to verify that the NFS fileserver service is not enabled. 
+* [Remediation_Compliant_macOS12](https://github.com/apfelwerk/JamfProtectInsights/blob/main/NetworkingType/CIS_4.5_NFS%20Server%20Is%20Not%20Running/Remediation_Compliant_macOS12.sh): Run the following command to disable the nfsd fileserver services
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Contributors
 * [Manuela Munoz Bocanegra](https://github.com/manuelamunoz)
